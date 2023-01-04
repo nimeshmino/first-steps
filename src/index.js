@@ -15,3 +15,5 @@ function print(textString) {
 /**
  * Write a function that joins two strings
  */
+
+function newFunction() {}
