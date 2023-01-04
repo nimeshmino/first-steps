@@ -11,3 +11,7 @@ function sayHello() {
 function print(textString) {
     console.log(textString);
 }
+
+/**
+ * Write a function that joins two strings
+ */
