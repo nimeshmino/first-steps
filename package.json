@@ -1,0 +1,19 @@
+{
+  "name": "first-steps",
+  "version": "1.0.0",
+  "description": "First Steps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimeshmino/first-steps.git"
+  },
+  "author": "Nimesh Mino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimeshmino/first-steps/issues"
+  },
+  "homepage": "https://github.com/nimeshmino/first-steps#readme"
+}
