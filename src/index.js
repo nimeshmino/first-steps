@@ -1,4 +1,4 @@
-console.log(sayHello());
+print(sayHello());
 
 /**
  * Functions
@@ -6,4 +6,8 @@ console.log(sayHello());
 
 function sayHello() {
     return "Hello World!";
+}
+
+function print(textString) {
+    console.log(textString);
 }
