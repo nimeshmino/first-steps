@@ -16,4 +16,7 @@ function print(textString) {
  * Write a function that joins two strings
  */
 
-function newFunction() {}
+function joinStrings(stringA, stringB) {
+    stringA = stringA + stringB;
+    return stringA;
+}
